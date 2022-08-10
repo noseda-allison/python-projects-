@@ -1,2 +1,2 @@
-# python-projects-
-a few of my first projects in python
+# python-projects
+A sample of my first projects in Google Colab.
